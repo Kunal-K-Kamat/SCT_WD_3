@@ -27,8 +27,6 @@
 
 ---
 
-## 🖼 Video Guide 
-  
-![Tic-Tac-Toe game](Project3-By-KKK.mp4)  
+
 
 
