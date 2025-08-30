@@ -15,6 +15,8 @@ SCT_WD_3/
 └── README.md     # Documentation
 ```
 
+---
+
 ## Objectives
 
 ### To create an interactive navigation menu that:
