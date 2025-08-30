@@ -1,6 +1,21 @@
 # Building an interactive Tic-Tac-Toe game
 
-## 💻 Objectives
+An interactive **Tic-Tac-Toe game** built with **HTML, CSS, and JavaScript**.  
+It features both **Player vs Player** and **Player vs Computer** modes, responsive design, and smooth gameplay.
+
+---
+
+## Project Structure
+
+```bash
+SCT_WD_3/
+│── index.html    # Game interface layout
+│── style.css     # Styling and animations
+│── script.js     # Game logic and interactivity
+└── README.md     # Documentation
+```
+
+## Objectives
 
 ### To create an interactive navigation menu that:
 
@@ -10,7 +25,7 @@
 
 ---
 
-## 🛠 Tech Stack Used
+## Tech Stack Used
 
 - HTML5 – Structure & Layout
 - CSS3 – Styling and Animations
@@ -18,7 +33,7 @@
 
 ---
 
-## ✨ Key Features Implemented
+## Key Features Implemented
 
 - Player vs Player & Player vs Computer modes.
 - Smart CPU moves with a realistic 1s delay 🤖.
@@ -26,7 +41,3 @@
 - Reset option for multiple rounds.
 
 ---
-
-
-
-
